@@ -1,7 +1,7 @@
 import { useForm } from "react-hook-form";
 import defaultValues from "../utils/defaultValues";
 import { useEffect } from "react";
-import "./styles/FormUser.css";
+import "./styles/formUser.css";
 
 const FormUser = ({
     createNewUser,
