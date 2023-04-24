@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./styles/UserCard.css";
+import "./styles/userCard.css";
 
 const UserCard = ({ user, deleteUserById, setUpdateInfo, setFormClose }) => {
     const [showConfirm, setShowConfirm] = useState(false);
