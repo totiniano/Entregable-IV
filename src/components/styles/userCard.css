@@ -6,6 +6,7 @@
     padding: 1.5em 1em;
     background-color: white;
     transition: transform 200ms ease;
+    box-shadow: 0.2em 0.2em 1em #0009;
 }
 
 .user:hover {
