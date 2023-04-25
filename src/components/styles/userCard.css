@@ -68,8 +68,9 @@
 }
 
 .user__update {
-    background-color: #0003;
+    background-color: #0005;
     border-radius: 0.05em solid currentColor;
+    color: #0009;
 }
 
 .user__icon {
